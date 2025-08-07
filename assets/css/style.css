@@ -32,9 +32,10 @@ body {
 #navbar {
     background-color: black
 }
+/*-- adjusted logo size to fit navbar -->*/
 
 #navbar .logo {
-    width: 20px;
+    width: 30px;
 }
 
 /* Header */
@@ -82,7 +83,7 @@ main {
 
 /*grid visualisation CSS for testing */
 
-.container,
+/* .container,
 .row {
     border: 2px solid black;
 }
@@ -90,7 +91,7 @@ main {
 .col-12 {
     border: 2px solid white;
     background-color: lightgray;
-}
+} */
 
 /* Media queries */
 
