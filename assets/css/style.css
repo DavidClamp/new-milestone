@@ -10,6 +10,13 @@
     margin: 0;
     box-sizing: border-box;
 }
+/* Global styles */
+
+/* room for navbar abore header */
+
+.section {
+    margin-top: 2rem;
+    margin-bottom: 2rem;}
 
 /* General styles */
 body {
@@ -19,6 +26,15 @@ body {
     /* Generic project styles */
     color: #3a3a3a;
     font-family: 'Lato', sans-serif;
+}
+/* Navbar */
+
+#navbar {
+    background-color: var(--primary-color);
+}
+
+#navbar .logo {
+    width: 30px;
 }
 
 /* Header */
