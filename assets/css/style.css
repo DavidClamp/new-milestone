@@ -90,15 +90,15 @@ main {
 
 /*grid visualisation CSS for testing */
 
-/* .container,
+.container,
 .row {
     border: 2px solid black;
 }
 
 .col-12 {
     border: 2px solid white;
-    background-color: lightgray;
-} */
+    background-color: white;
+}
 
 /* Media queries */
 
