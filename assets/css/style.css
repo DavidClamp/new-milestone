@@ -17,6 +17,7 @@
 .section {
     margin-top: 2rem;
     margin-bottom: 2rem;
+    /* scroll-margin-top:; */
 }
 /* padding-top: 2rem;} */
 
@@ -61,10 +62,8 @@ header a {
     text-decoration: none;
     color: inherit;}
 
-/* Header */
-/* header {
-    background-color: lightcoral;} */
-
+/*About me*/
+/* card holder to fix container */
 
 /* Main content */
 main {
@@ -95,6 +94,7 @@ main {
 .container,
 .row {
     border: 2px solid black;
+     
 }
 
 .col-12 {
