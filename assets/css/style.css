@@ -64,6 +64,8 @@ header a {
 
 /*About me*/
 /* card holder to fix container */
+/* images to fit properly */
+img {object-fit: cover;}
 
 /* Main content */
 main {
