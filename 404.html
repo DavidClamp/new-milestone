@@ -65,7 +65,6 @@
                         <li class="nav-item">
                         <a class="nav-link" href="other-services.html"> Other Services</a>
                     </li>
-                    </li>   
                         <li class="nav-item">
                         <a class="nav-link" href="#contact">Contact</a>
                     </li>
@@ -77,49 +76,19 @@
         </div>
     </nav>
 
-    <!--end of navigation-->
-
-    <!-- Booking inquiry form section -->
-        <section id="booking-form" class="container section">
-            <div class="row justify-content-center">
-                <div class="col-12 col-md-8">
-                    <h2>Booking inquiry</h2>
-                    <form action="success.html" method="GET">
-                        <div class="row">
-                            <div class="col-12 col-lg-6 mb-3">
-                                <label for="name" class="form-label">Name</label>
-                                <input class="form-control" id="name" name="name" type="text" required>
-                            </div>
-                            <div class="col-12 col-lg-6 mb-3">
-                                <label for="email" class="form-label">Email</label>
-                                <input class="form-control" id="email" name="email" type="email" required>
-                            </div>
-                            <div class="col-12 col-lg-6 mb-3">
-                                <label for="phone" class="form-label">Phone number</label>
-                                <input class="form-control" id="phone" name="phone" type="number" required>
-                            </div>
-                            <div class="col-12 col-lg-6 mb-3">
-                                <label for="service-type" class="service-label">Service type</label>
-                                <select id="service-type" class="form-select" name="service-type" required>
-                                    <option value="" selected>Select</option>
-                                    <option value="bar-consult">Bariatrics Consultation - Book a time slot</option>
-                                    <option value="inj-consult">Injectables Consulation - Book a time slot</option>
-                                    <option value="gen-consult">General Consulation - Book a time slot</option>
-                                    
-                                </select>
-                            </div>
-                            <div class="col-12 mb-3">
-                                <label for="message" class="form-label">Message</label>
-                                <textarea class="form-control" rows="6" id="message" name="message" required></textarea>
-                            </div>
-                        </div>
-
-                        <button type="submit" class="btn btn-primary mb-4">Submit</button>
-                    </form>
-                </div>
+     <!-- success message for users who successfully submit a form -->
+    <main id="success" class="container section text-center">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-8">
+                <h1 class="display-3">Thank you!</h1>
+                <p class="lead">Your form has been submitted successfully!</p>
+                <a href="404.html" class="btn custom-button-outline mb-5">Return to the home page</a>
             </div>
-        </section>
+        </div>
     </main>
+
+    <!-- sucess form section -->
+       
 
 
     <!--end of header-->
