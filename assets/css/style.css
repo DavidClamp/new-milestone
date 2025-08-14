@@ -15,12 +15,12 @@
 
 /*adding space to bottom and top of sections */
 .section {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    /* margin-top: 2rem;
+    margin-bottom: 2rem; */
     
     /* scroll-margin-top:; */
-}
-/* padding-top: 2rem;} */
+
+padding-top: 4rem;}
 
 
 body {
