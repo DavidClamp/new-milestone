@@ -20,7 +20,7 @@
     
     /* scroll-margin-top:; */
 
-padding-top: 4rem;}
+padding-top: 5rem;}
 
 
 body {
@@ -29,7 +29,7 @@ body {
     flex-direction: column;
     font-family: 'Lato' sans-serif;
    /* push header down under fixed navbar */
-   padding-top: 50px;
+   padding-top: 57px;
 }
     
     h1,
@@ -47,13 +47,13 @@ body {
 /*-- adjusted logo size to fit navbar -->*/
 
 #navbar .logo {
-    width: 30px;
+    width: 35px;
 }
  
 /* Header */
 header {
     background-color: #ffffff;
-    padding: 0 1rem;
+    padding: 0 2rem;
    
     z-index: 99;
     width: 100%;
@@ -95,7 +95,7 @@ main {
 
 /*grid visualisation CSS for testing */
 
-.container,
+/* .container, */
 .row {
     border: 2px solid black;
      
