@@ -13,7 +13,7 @@
 /* Global styles */
 
 
-/*adding space to bottom and top of sections */
+/*adding space*/
 .section {
     /* margin-top: 2rem;
     margin-bottom: 2rem; */
@@ -64,8 +64,7 @@ header a {
     text-decoration: none;
     color: inherit;}
 
-/*About me*/
-/* card holder to fix container */
+
 /* images to fit properly */
 img {object-fit: cover;}
 
@@ -77,7 +76,6 @@ main {
     margin-top: 47px;
 }
 
-/* Footer */
 /* Footer */
 #social-networks {
     text-align: center;
@@ -93,7 +91,7 @@ main {
     color: #3a3a3a;
 }
 
-/*grid visualisation CSS for testing */
+
 
 /* .container, */
 .row {
