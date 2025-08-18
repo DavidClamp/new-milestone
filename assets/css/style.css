@@ -15,7 +15,7 @@
 
 /*adding space*/
 .section {
-
+/* prevent navbar overlap */
 padding-top: 5rem;}
 
 
