@@ -16,7 +16,7 @@
 /*adding space*/
 .section {
 /* prevent navbar overlap */
-padding-top: 5rem;}
+padding-top: 4rem;}
 
 
 body {
@@ -90,13 +90,13 @@ main {
 
 
 /* .container, */
-.row {
+/* .row {
     border: 2px solid black;
      
-}
+} */
 
-.col-12 {
-    border: 2px solid white;
-    background-color: white;
-}
+/* .col-12 { */
+    /* border: 2px solid white; */
+    /* background-color: white; */
+/* } */
 
