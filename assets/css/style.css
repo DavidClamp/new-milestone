@@ -31,7 +31,7 @@ body {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, Sans-serif; 
         /* push header down under fixed navbar */
     padding-top: 57px;
 }
