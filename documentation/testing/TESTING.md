@@ -65,11 +65,15 @@ I've tested my deployed project to check for responsiveness issues.
 
 | Page | Mobile | Tablet | Desktop | Notes |
 | --- | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/responsiveness/mobile-home.png) | ![screenshot](documentation/responsiveness/tablet-home.png) | ![screenshot](documentation/responsiveness/desktop-home.png) | Works as expected |
-| Gallery | ![screenshot](documentation/responsiveness/mobile-gallery.png) | ![screenshot](documentation/responsiveness/tablet-gallery.png) | ![screenshot](documentation/responsiveness/desktop-gallery.png) | Works as expected |
-| Signup | ![screenshot](documentation/responsiveness/mobile-signup.png) | ![screenshot](documentation/responsiveness/tablet-signup.png) | ![screenshot](documentation/responsiveness/desktop-signup.png) | Works as expected |
-| Confirmation | ![screenshot](documentation/responsiveness/mobile-confirmation.png) | ![screenshot](documentation/responsiveness/tablet-confirmation.png) | ![screenshot](documentation/responsiveness/desktop-confirmation.png) | Works as expected |
-| 404 | ![screenshot](documentation/responsiveness/mobile-404.png) | ![screenshot](documentation/responsiveness/tablet-404.png) | ![screenshot](documentation/responsiveness/desktop-404.png) | Works as expected |
+| Home | ![screenshot](../testing/mobileHome.png) | ![screenshot](../testing/laptopHome.png) | ![screenshot](../testing/desktopHome.png) | Works as expected |
+| About Me | ![screenshot](../testing/mobileAbout.png) | ![screenshot](../testing/laptopAbout.png) | ![screenshot](../testing/DesktopAbout.png) | Works as expected |
+| Bariatric Services | ![screenshot](../testing/mobileBariatrics.png) | ![screenshot](../testing/laptopBariatrics.png) | ![screenshot](../testing/desktopBariatrics.png) | Works as expected |
+| Injectable Services | ![screenshot](../testing/mobileInjectables.png) | ![screenshot](../testing/laptopInjectables.png) | ![screenshot](../testing/desktopInjectables.png) | Works as expected |
+| Booking | ![screenshot](../testing/mobileBooking.png) | ![screenshot](../testing/laptopBooking.png) | ![screenshot](../testing/desktopBooking.png) | Works as expected |
+| Success | ![screenshot](../testing/mobileSuccess.png) | ![screenshot](../testing/laptopSuccess.png) | ![screenshot](../testing/desktopSuccess.png) | Works as expected |
+| 404 | ![screenshot](../testing/mobile404.png) | ![screenshot](../testing/laptop404.png) | ![screenshot](../testing/desktop404.png) | Works as expected |
+
+
 
 ## Browser Compatibility
 
@@ -93,13 +97,16 @@ Please note, there are services out there that can test multiple browser compati
 
 I've tested my deployed project on multiple browsers to check for compatibility issues.
 
-| Page | Chrome | Firefox | Safari | Notes |
+| Page | Chrome | Firefox | Edge | Notes | 
 | --- | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/browsers/chrome-home.png) | ![screenshot](documentation/browsers/firefox-home.png) | ![screenshot](documentation/browsers/safari-home.png) | Works as expected |
-| Gallery | ![screenshot](documentation/browsers/chrome-gallery.png) | ![screenshot](documentation/browsers/firefox-gallery.png) | ![screenshot](documentation/browsers/safari-gallery.png) | Works as expected |
-| Signup | ![screenshot](documentation/browsers/chrome-signup.png) | ![screenshot](documentation/browsers/firefox-signup.png) | ![screenshot](documentation/browsers/safari-signup.png) | Works as expected |
-| Confirmation | ![screenshot](documentation/browsers/chrome-confirmation.png) | ![screenshot](documentation/browsers/firefox-confirmation.png) | ![screenshot](documentation/browsers/safari-confirmation.png) | Works as expected |
-| 404 | ![screenshot](documentation/browsers/chrome-404.png) | ![screenshot](documentation/browsers/firefox-404.png) | ![screenshot](documentation/browsers/safari-404.png) | Works as expected |
+| Home | ![screenshot](documentation/browsers/chrome-home.png) | ![screenshot](documentation/browsers/firefox-home.png) | | Works as expected |
+| About Me | ![screenshot](documentation/browsers/chrome-gallery.png) | ![screenshot](documentation/browsers/firefox-gallery.png) || Works as expected |
+| Bariatrics | ![screenshot](documentation/browsers/chrome-signup.png) | ![screenshot](documentation/browsers/firefox-signup.png) ||Works as expected |
+| Injectables | ![screenshot](documentation/browsers/chrome-confirmation.png) | ![screenshot](documentation/browsers/firefox-confirmation.png) || Works as expected |
+| Testimonials | ![screenshot](documentation/browsers/chrome-signup.png) | ![screenshot](documentation/browsers/firefox-signup.png) | |Works as expected |
+| Booking | ![screenshot](documentation/browsers/chrome-signup.png) | ![screenshot](documentation/browsers/firefox-signup.png) | |Works as expected |
+| Success | ![screenshot](documentation/browsers/chrome-signup.png) | ![screenshot](documentation/browsers/firefox-signup.png) | |Works as expected |
+| 404 | ![screenshot](documentation/browsers/chrome-404.png) | ![screenshot](documentation/browsers/firefox-404.png) || Works as expected |
 
 ## Lighthouse Audit
 
