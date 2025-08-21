@@ -20,34 +20,25 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 | testing | [index.html](https://github.com/DavidClamp/new-milestone/blob/main/index.html) | https://davidclamp.github.io/new-milestone/index.html | ![index test results](../testing/index-html%20code-testScreenshot.png) |
 | testing | [success.html](https://github.com/DavidClamp/new-milestone/blob/main/success.html) | https://davidclamp.github.io/new-milestone/success.html | ![success test results](../testing/success-html%20code-testScreenshot.png) |  |
 
-| test folder | [Lighthouse Report Viewer.html](https://github.com/DavidClamp/new-milestone/blob/main/test%20folder/Lighthouse%20Report%20Viewer.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/Lighthouse Report Viewer.html) | ![screenshot](documentation/validation/html-test folder-Lighthouse Report Viewer.png) | ⚠️ Notes (if applicable) |
+## Lighthouse
 
+- if these filws can't be accessed from Github
+
+| test folder | [Lighthouse Report Viewer.html]https://github.com/DavidClamp/new-milestone/blob/main/test%20folder/Lighthouse%20Report%20Viewer.html | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/Lighthouse Report Viewer.html) | ![Lighthouse report screenshot](../testing/lighthouse%20Screenshot.png) |
+
+![Lighthouse report text](../testing/lighthouse.pdf) |
 
 ### CSS
 
-⚠️ INSTRUCTIONS ⚠️
-
-1. [*recommended*] If you are using the live deployed site, use this link: https://jigsaw.w3.org/css-validator/#validate_by_uri
-2. If you are copying/pasting your CSS code, use this link: https://jigsaw.w3.org/css-validator/#validate_by_input
-
-It's recommended to validate the live site for your primary CSS file on the deployed URL. This will give you a custom URL as well, which you can use below on your testing documentation. It makes it easier to return back to a page for validating it again in the future. The URL will look something like this:
-
 - https://jigsaw.w3.org/css-validator/validator?uri=https://davidclamp.github.io/new-milestone
 
-If you have additional/multiple CSS files, then individual "[validation by input](https://jigsaw.w3.org/css-validator/#validate_by_input)" is recommended for the extra CSS files.
-
-**IMPORTANT**: Third-Party tools
-
-If you're using external libraries/frameworks (e.g: Bootstrap, Materialize, Font Awesome, etc.), then sometimes the tool will attempt to also validate these, even though it's not part of your own actual code that you wrote. You are not required to validate the external libraries or frameworks!
-
-⚠️ --- END --- ⚠️
 
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
 
 | Directory | File | URL | Screenshot | Notes |
 | --- | --- | --- | --- | --- |
-| assets | [style.css](https://github.com/DavidClamp/new-milestone/blob/main/assets/css/style.css) | [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https://davidclamp.github.io/new-milestone) | ![screenshot](documentation/validation/css-assets-style.png) | ⚠️ Notes (if applicable) |
-| test folder | [bundled.css](https://github.com/DavidClamp/new-milestone/blob/main/test%20folder/Lighthouse%20Report%20Viewer_files/bundled.css) | [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https://davidclamp.github.io/new-milestone) | ![screenshot](documentation/validation/css-test folder-bundled.png) | ⚠️ Notes (if applicable) |
+| assets | [style.css](https://github.com/DavidClamp/new-milestone/blob/main/assets/css/style.css) | [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https://davidclamp.github.io/new-milestone) | ![screenshot](../testing/CSS-code-testScreenshot.png) |
+
 
 
 ## Responsiveness
