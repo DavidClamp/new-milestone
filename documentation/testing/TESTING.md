@@ -15,10 +15,10 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 | Directory | File | URL | Screenshot | Notes |
 | --- | --- | --- | --- | --- |
-|  | [404.html](https://github.com/DavidClamp/new-milestone/blob/main/404.html) | https://davidclamp.github.io/new-milestone/404.html | ![404 screenshot](../testing/404-htmlcode-testScreenshot.png) | 
-|  | [booking.html](https://github.com/DavidClamp/new-milestone/blob/main/booking.html) | [HTML Validator](https://davidclamp.github.io/new-milestone/booking.html) | ![screenshot](../testing/booking-html%20code-testScreenshot.png) | 
-|  | [index.html](https://github.com/DavidClamp/new-milestone/blob/main/index.html) | [HTML Validator](https://davidclamp.github.io/new-milestone/index.html) | ![index test results](../testing/404-htmlcode-testScreenshot.png) |
-|  | [success.html](https://github.com/DavidClamp/new-milestone/blob/main/success.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/success.html) | ![screenshot](../testing/success-html%20code-testScreenshot.png) |  |
+| testing| [404.html](https://github.com/DavidClamp/new-milestone/blob/main/404.html) | https://davidclamp.github.io/new-milestone/404.html | ![404 test results](../testing/404-htmlcode-testScreenshot.png) |
+|testing| [booking.html](https://github.com/DavidClamp/new-milestone/blob/main/booking.html) | https://davidclamp.github.io/new-milestone/booking.html | ![booking test results](../testing/booking-html%20code-testScreenshot.png) |
+| testing | [index.html](https://github.com/DavidClamp/new-milestone/blob/main/index.html) | https://davidclamp.github.io/new-milestone/index.html | ![index test results](../testing/index-html%20code-testScreenshot.png) |
+| testing | [success.html](https://github.com/DavidClamp/new-milestone/blob/main/success.html) | https://davidclamp.github.io/new-milestone/success.html | ![success test results](../testing/success-html%20code-testScreenshot.png) |  |
 
 | test folder | [Lighthouse Report Viewer.html](https://github.com/DavidClamp/new-milestone/blob/main/test%20folder/Lighthouse%20Report%20Viewer.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/Lighthouse Report Viewer.html) | ![screenshot](documentation/validation/html-test folder-Lighthouse Report Viewer.png) | ⚠️ Notes (if applicable) |
 
