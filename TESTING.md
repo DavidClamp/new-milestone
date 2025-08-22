@@ -15,18 +15,11 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 | Directory | File | URL | Screenshot | Notes |
 | --- | --- | --- | --- | --- |
-| Documentation| [404.html](https://github.com/DavidClamp/new-milestone/blob/main/404.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/404.html)| ![screenshot](documentation/testing/404-htmlcode-testScreenshot.png)|
-|Documentation| [booking.html](https://github.com/DavidClamp/new-milestone/blob/main/booking.html) |[HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/booking.html) | ![booking test results](documentation/testing/booking-htmlcode-testScreenshot.png) |
- Documentation | [index.html](https://github.com/DavidClamp/new-milestone/blob/main/index.html) |[HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/index.html) | ![index test results](documentation/testing/index-htmlcode-testScreenshot.png) |
-| Documentation| [success.html](https://github.com/DavidClamp/new-milestone/blob/main/success.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/success.html) | !![success test results](documentation/testing/success-htmlcode-testScreenshot.png) | 
+| assets| [404.html](https://github.com/DavidClamp/new-milestone/blob/main/404.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/404.html)| ![screenshot](documentation/testing/404-htmlcode-testScreenshot.png)|
+|assets| [booking.html](https://github.com/DavidClamp/new-milestone/blob/main/booking.html) |[HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/booking.html) | ![booking test results](documentation/testing/booking-htmlcode-testScreenshot.png) |
+ assets | [index.html](https://github.com/DavidClamp/new-milestone/blob/main/index.html) |[HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/index.html) | ![index test results](documentation/testing/index-htmlcode-testScreenshot.png) |
+| assets| [success.html](https://github.com/DavidClamp/new-milestone/blob/main/success.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/success.html) | !![success test results](documentation/testing/success-htmlcode-testScreenshot.png) | 
 
-## Lighthouse
-
-- if these filws can't be accessed from Github
-
-| test folder | [Lighthouse Report Viewer.html]https://github.com/DavidClamp/new-milestone/blob/main/test%20folder/Lighthouse%20Report%20Viewer.html | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/Lighthouse Report Viewer.html) | ![Lighthouse report screenshot](documentation/testing/lighthouse%20Screenshot.png) |
-
-![Lighthouse report text](documentation/testing/lighthouse.pdf) |
 
 ### CSS
 
