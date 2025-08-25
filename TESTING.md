@@ -100,19 +100,7 @@ Defensive programming was manually tested with the below user acceptance testing
 | Social Links | Feature is expected to include working links to the practices social platforms (Instagram, Facebook, etc.). | Clicked each social link to verify redirection to the correct platform page. | All links redirected to the correct platform pages, opening in new browser tabs. |
 | 404 Error Page | Feature is expected to display a 404 error page for non-existent pages. | Navigated to an invalid URL (e.g., `/test`) to test error handling. | A custom 404 error page was displayed as expected. | 
 
-### Fixed Bugs
 
-[![GitHub issue custom search](https://img.shields.io/github/issues-search/DavidClamp/new-milestone?query=is%3Aissue%20is%3Aclosed%20label%3Abug&label=Fixed%20Bugs&color=green)](https://www.github.com/DavidClamp/new-milestone/issues?q=is%3Aissue+is%3Aclosed+label%3Abug)
-
-I've used [GitHub Issues](https://www.github.com/DavidClamp/new-milestone/issues) to track and manage bugs and issues during the development stages of my project.
-
-All previously closed/fixed bugs can be tracked [here](https://www.github.com/DavidClamp/new-milestone/issues?q=is%3Aissue+is%3Aclosed+label%3Abug).
-
-### Unfixed Bugs
-
-[![GitHub issue custom search](https://img.shields.io/github/issues-search/DavidClamp/new-milestone?query=is%3Aissue%2Bis%3Aopen%2Blabel%3Abug&label=Unfixed%20Bugs&color=red)](https://www.github.com/DavidClamp/new-milestone/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
-
-Any remaining open issues can be tracked [here](https://www.github.com/DavidClamp/new-milestone/issues?q=is%3Aissue+is%3Aopen+label%3Abug).
 
 
 ### Known Issues
