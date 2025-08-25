@@ -6,7 +6,6 @@
 
 ## Code Validation
 
-
 ### HTML
 
 
@@ -15,10 +14,10 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 | Directory | File | URL | Screenshot | Notes |
 | --- | --- | --- | --- | --- |
-| assets| [404.html](https://github.com/DavidClamp/new-milestone/blob/main/404.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/404.html)| ![screenshot](documentation/testing/404-htmlcode-testScreenshot.png)|
-|assets| [booking.html](https://github.com/DavidClamp/new-milestone/blob/main/booking.html) |[HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/booking.html) | ![booking test results](documentation/testing/booking-htmlcode-testScreenshot.png) |
- assets | [index.html](https://github.com/DavidClamp/new-milestone/blob/main/index.html) |[HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/index.html) | ![index test results](documentation/testing/index-htmlcode-testScreenshot.png) |
-| assets| [success.html](https://github.com/DavidClamp/new-milestone/blob/main/success.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/success.html) | ![success test results](documentation/testing/success-htmlcode-testScreenshot.png) | 
+| assets| [404.html](https://github.com/DavidClamp/new-milestone/blob/main/404.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/404.html)| ![screenshot](documentation/testing/404-htmlcode-testscreenshot.png)|
+|assets| [booking.html](https://github.com/DavidClamp/new-milestone/blob/main/booking.html) |[HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/booking.html) | ![booking test results](documentation/testing/booking-htmlcode-testscreenshot.png) |
+ assets | [index.html](https://github.com/DavidClamp/new-milestone/blob/main/index.html) |[HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/index.html) | ![index test results](documentation/testing/index-htmlcode-testscreenshot.png) |
+| assets| [success.html](https://github.com/DavidClamp/new-milestone/blob/main/success.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/success.html) | ![success test results](documentation/testing/success-htmlcode-testscreenshot.png) | 
 
 
 ### CSS
@@ -30,7 +29,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 | Directory | File | URL | Screenshot | Notes |
 | --- | --- | --- | --- | --- |
-| assets | [style.css](https://github.com/DavidClamp/new-milestone/blob/main/assets/css/style.css) | [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https://davidclamp.github.io/new-milestone) | ![screenshot](documentation/testing/CSS-code-testScreenshot.png) |
+| assets | [style.css](https://github.com/DavidClamp/new-milestone/blob/main/assets/css/style.css) | [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https://davidclamp.github.io/new-milestone) | ![screenshot](documentation/testing/css-code-testscreenshot.png) |
 
 
 
@@ -42,12 +41,12 @@ I've tested my deployed project to check for responsiveness issues.
 
 | Page | Mobile | Tablet | Desktop | Notes |
 | --- | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/testing/mobileHome.png) | ![screenshot](documentation/testing/laptopHome.png) | ![screenshot](documentation/testing/desktopHome.png) | Works as expected |
-| About Me | ![screenshot](documentation/testing/mobileAbout.png) | ![screenshot](documentation/testing/laptopAbout.png) | ![screenshot](documentation/testing/DesktopAbout.png) | Works as expected |
-| Bariatric Services | ![screenshot](documentation/testing/mobileBariatrics.png) | ![screenshot](documentation/testing/laptopBariatrics.png) | ![screenshot](documentation/testing/desktopBariatrics.png) | Works as expected |
-| Injectable Services | ![screenshot](documentation/testing/mobileInjectables.png) | ![screenshot](documentation/testing/laptopInjectables.png) | ![screenshot](documentation/testing/desktopInjectables.png) | Works as expected |
-| Booking | ![screenshot](documentation/testing/mobileBooking.png) | ![screenshot](documentation/testing/laptopBooking.png) | ![screenshot](documentation/testing/desktopBooking.png) | Works as expected |
-| Success | ![screenshot](documentation/testing/mobileSuccess.png) | ![screenshot](documentation/testing/laptopSuccess.png) | ![screenshot](documentation/testing/desktopSuccess.png) | Works as expected |
+| Home | ![screenshot](documentation/testing/mobileHome.png) | ![screenshot](documentation/testing/laptopHome.png) | ![screenshot](documentation/testing/desktophome.png) | Works as expected |
+| About Me | ![screenshot](documentation/testing/mobileAbout.png) | ![screenshot](documentation/testing/laptopabout.png) | ![screenshot](documentation/testing/desktopabout.png) | Works as expected |
+| Bariatric Services | ![screenshot](documentation/testing/mobilebariatrics.png) | ![screenshot](documentation/testing/laptopbariatrics.png) | ![screenshot](documentation/testing/desktopbariatrics.png) | Works as expected |
+| Injectable Services | ![screenshot](documentation/testing/mobilinjectables.png) | ![screenshot](documentation/testing/laptopinjectables.png) | ![screenshot](documentation/testing/desktopinjectables.png) | Works as expected |
+| Booking | ![screenshot](documentation/testing/mobilebooking.png) | ![screenshot](documentation/testing/laptopbooking.png) | ![screenshot](documentation/testing/desktopbooking.png) | Works as expected |
+| Success | ![screenshot](documentation/testing/mobilesuccess.png) | ![screenshot](documentation/testing/laptopsuccess.png) | ![screenshot](documentation/testing/desktopsuccess.png) | Works as expected |
 | 404 | ![screenshot](documentation/testing/mobile404.png) | ![screenshot](documentation/testing/laptop404.png) | ![screenshot](documentation/testing/desktop404.png) | Works as expected |
 
 
@@ -59,13 +58,13 @@ I've tested my deployed project on Chrome and Microfoft Edge to check for compat
 
 | Page | Chrome | Edge | Notes | 
 | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/testing/laptopHome.png) | ![screenshot](documentation/edgebrowser/home.png)| Works as expected |
-| About Me | ![screenshot](documentation/testing/laptopAbout.png) | ![screenshot](documentation/edgebrowser/aboutme.png) | Works as expected |
-| Bariatrics | ![screenshot](documentation/testing/laptopBariatrics.png) | ![screenshot](documentation/edgebrowser/bariatrics.png) | Works as expected |
-| Injectables | ![screenshot](documentation/testing/laptopInjectables.png) | ![screenshot](documentation/edgebrowser/injectables.png) | Works as expected |
-| Testimonials | ![screenshot](documentation/testing/laptopTestimonials.png) | ![screenshot](documentation/edgebrowser/Testimonials.png)| Works as expected |
-| Booking | ![screenshot](documentation/testing/laptopBooking.png) | ![screenshot](documentation/edgebrowser/booking.png)|Works as expected |
-| Success | ![screenshot](documentation/testing/laptopSuccess.png) | ![screenshot](documentation/edgebrowser/success.png) |Works as expected |
+| Home | ![screenshot](documentation/testing/laptophome.png) | ![screenshot](documentation/edgebrowser/home.png)| Works as expected |
+| About Me | ![screenshot](documentation/testing/laptopabout.png) | ![screenshot](documentation/edgebrowser/aboutme.png) | Works as expected |
+| Bariatrics | ![screenshot](documentation/testing/laptopbariatrics.png) | ![screenshot](documentation/edgebrowser/bariatrics.png) | Works as expected |
+| Injectables | ![screenshot](documentation/testing/laptopinjectables.png) | ![screenshot](documentation/edgebrowser/injectables.png) | Works as expected |
+| Testimonials | ![screenshot](documentation/testing/laptoptestimonials.png) | ![screenshot](documentation/edgebrowser/testimonials.png)| Works as expected |
+| Booking | ![screenshot](documentation/testing/laptopbooking.png) | ![screenshot](documentation/edgebrowser/booking.png)|Works as expected |
+| Success | ![screenshot](documentation/testing/laptopsuccess.png) | ![screenshot](documentation/edgebrowser/success.png) |Works as expected |
 | 404 | ![screenshot](documentation/testing/laptop404.png) | ![screenshot](documentation/edgebrowser/404.png) | Works as expected |
 
 ## Lighthouse Audit
@@ -101,10 +100,8 @@ Defensive programming was manually tested with the below user acceptance testing
 | 404 Error Page | Feature is expected to display a 404 error page for non-existent pages. | Navigated to an invalid URL (e.g., `/test`) to test error handling. | A custom 404 error page was displayed as expected. | 
 
 
-
-
 ### Known Issues
 |
-> [!IMPORTANT]  
-> There are no remaining bugs that I am aware of, though, even after thorough testing, I cannot rule out the possibility.
+[!IMPORTANT]  
+There are no remaining bugs that I am aware of, though, even after thorough testing, I cannot rule out the possibility.
 
