@@ -18,7 +18,7 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 | assets| [404.html](https://github.com/DavidClamp/new-milestone/blob/main/404.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/404.html)| ![screenshot](documentation/testing/404-htmlcode-testScreenshot.png)|
 |assets| [booking.html](https://github.com/DavidClamp/new-milestone/blob/main/booking.html) |[HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/booking.html) | ![booking test results](documentation/testing/booking-htmlcode-testScreenshot.png) |
  assets | [index.html](https://github.com/DavidClamp/new-milestone/blob/main/index.html) |[HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/index.html) | ![index test results](documentation/testing/index-htmlcode-testScreenshot.png) |
-| assets| [success.html](https://github.com/DavidClamp/new-milestone/blob/main/success.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/success.html) | !![success test results](documentation/testing/success-htmlcode-testScreenshot.png) | 
+| assets| [success.html](https://github.com/DavidClamp/new-milestone/blob/main/success.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/success.html) | ![success test results](documentation/testing/success-htmlcode-testScreenshot.png) | 
 
 
 ### CSS
