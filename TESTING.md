@@ -14,10 +14,10 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 | Directory | File | URL | Screenshot | Notes |
 | --- | --- | --- | --- | --- |
-| assets| [404.html](https://github.com/DavidClamp/new-milestone/blob/main/404.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/404.html)| ![screenshot](documentation/testing/404-htmlcode-testscreenshot.png)|
-|assets| [booking.html](https://github.com/DavidClamp/new-milestone/blob/main/booking.html) |[HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/booking.html) | ![booking test results](documentation/testing/booking-htmlcode-testscreenshot.png) |
- assets | [index.html](https://github.com/DavidClamp/new-milestone/blob/main/index.html) |[HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/index.html) | ![index test results](documentation/testing/index-htmlcode-testscreenshot.png) |
-| assets| [success.html](https://github.com/DavidClamp/new-milestone/blob/main/success.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/success.html) | ![success test results](documentation/testing/success-htmlcode-testscreenshot.png) | 
+| assets| [404.html](https://github.com/DavidClamp/new-milestone/blob/main/404.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/404.html)| ![screenshot](documentation/testing/404-htmlcode-test.png)|
+|assets| [booking.html](https://github.com/DavidClamp/new-milestone/blob/main/booking.html) |[HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/booking.html) | ![booking test results](documentation/testing/booking-htmlcode.png) |
+ assets | [index.html](https://github.com/DavidClamp/new-milestone/blob/main/index.html) |[HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/index.html) | ![index test results](documentation/testing/index-htmlcode-test.png) |
+| assets| [success.html](https://github.com/DavidClamp/new-milestone/blob/main/success.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/success.html) | ![success test results](documentation/testing/success-htmlcode.png) | 
 
 
 ### CSS
@@ -29,7 +29,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 | Directory | File | URL | Screenshot | Notes |
 | --- | --- | --- | --- | --- |
-| assets | [style.css](https://github.com/DavidClamp/new-milestone/blob/main/assets/css/style.css) | [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https://davidclamp.github.io/new-milestone) | ![screenshot](documentation/testing/css-code-testscreenshot.png) |
+| assets | [style.css](https://github.com/DavidClamp/new-milestone/blob/main/assets/css/style.css) | [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https://davidclamp.github.io/new-milestone) | ![screenshot](documentation/testing/css-code-test.png) |
 
 
 
