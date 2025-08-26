@@ -41,7 +41,7 @@ I've tested my deployed project to check for responsiveness issues.
 
 | Page | Mobile | Tablet | Desktop | Notes |
 | --- | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/testing/mobilehome.png) | ![screenshot](documentation/testing/laptop-home.png) | ![screenshot](documentation/testing/desktop-home.png) | Works as expected |
+| Home | ![screenshot](documentation/testing/mobile-home.png) | ![screenshot](documentation/testing/laptop-home.png) | ![screenshot](documentation/testing/desktop-home.png) | Works as expected |
 | About Me | ![screenshot](documentation/testing/mobileabout.png) | ![screenshot](documentation/testing/laptop-about.png) | ![screenshot](documentation/testing/desktop-about.png) | Works as expected |
 | Bariatric Services | ![screenshot](documentation/testing/mobile-bariatrics.png) | ![screenshot](documentation/testing/laptop-bariatrics.png) | ![screenshot](documentation/testing/desktop-bariatrics.png) | Works as expected |
 | Injectable Services | ![screenshot](documentation/testing/mobile-injectables.png) | ![screenshot](documentation/testing/laptop-injectables.png) | ![screenshot](documentation/testing/desktop-injectables.png) | Works as expected |
@@ -101,7 +101,8 @@ Defensive programming was manually tested with the below user acceptance testing
 
 
 ### Known Issues
-|
+
 [!IMPORTANT]  
 There are no remaining bugs that I am aware of, though, even after thorough testing, I cannot rule out the possibility.
+
 
