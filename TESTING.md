@@ -41,13 +41,13 @@ I've tested my deployed project to check for responsiveness issues.
 
 | Page | Mobile | Tablet | Desktop | Notes |
 | --- | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/testing/mobilehome.png) | ![screenshot](documentation/testing/laptophome.png) | ![screenshot](documentation/testing/desktophome.png) | Works as expected |
-| About Me | ![screenshot](documentation/testing/mobileAbout.png) | ![screenshot](documentation/testing/laptopabout.png) | ![screenshot](documentation/testing/desktopabout.png) | Works as expected |
-| Bariatric Services | ![screenshot](documentation/testing/mobilebariatrics.png) | ![screenshot](documentation/testing/laptopbariatrics.png) | ![screenshot](documentation/testing/desktopbariatrics.png) | Works as expected |
-| Injectable Services | ![screenshot](documentation/testing/mobileinjectables.png) | ![screenshot](documentation/testing/laptopinjectables.png) | ![screenshot](documentation/testing/desktopinjectables.png) | Works as expected |
-| Booking | ![screenshot](documentation/testing/mobilebooking.png) | ![screenshot](documentation/testing/laptopbooking.png) | ![screenshot](documentation/testing/desktopbooking.png) | Works as expected |
-| Success | ![screenshot](documentation/testing/mobilesuccess.png) | ![screenshot](documentation/testing/laptopsuccess.png) | ![screenshot](documentation/testing/desktopsuccess.png) | Works as expected |
-| 404 | ![screenshot](documentation/testing/mobile404.png) | ![screenshot](documentation/testing/laptop404.png) | ![screenshot](documentation/testing/desktop404.png) | Works as expected |
+| Home | ![screenshot](documentation/testing/mobilehome.png) | ![screenshot](documentation/testing/laptop-home.png) | ![screenshot](documentation/testing/desktop-home.png) | Works as expected |
+| About Me | ![screenshot](documentation/testing/mobile-about.png) | ![screenshot](documentation/testing/laptop-about.png) | ![screenshot](documentation/testing/desktop-about.png) | Works as expected |
+| Bariatric Services | ![screenshot](documentation/testing/mobile-bariatrics.png) | ![screenshot](documentation/testing/laptop-bariatrics.png) | ![screenshot](documentation/testing/desktop-bariatrics.png) | Works as expected |
+| Injectable Services | ![screenshot](documentation/testing/mobile-injectables.png) | ![screenshot](documentation/testing/laptop-injectables.png) | ![screenshot](documentation/testing/desktop-injectables.png) | Works as expected |
+| Booking | ![screenshot](documentation/testing/mobile-booking.png) | ![screenshot](documentation/testing/laptop-booking.png) | ![screenshot](documentation/testing/desktop-booking.png) | Works as expected |
+| Success | ![screenshot](documentation/testing/mobile-success.png) | ![screenshot](documentation/testing/laptop-success.png) | ![screenshot](documentation/testing/desktop-success.png) | Works as expected |
+| 404 | ![screenshot](documentation/testing/mobile-404.png) | ![screenshot](documentation/testing/laptop-404.png) | ![screenshot](documentation/testing/desktop-404.png) | Works as expected |
 
 
 
@@ -58,14 +58,14 @@ I've tested my deployed project on Chrome and Microfoft Edge to check for compat
 
 | Page | Chrome | Edge | Notes | 
 | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/testing/laptophome.png) | ![screenshot](documentation/edgebrowser/home.png)| Works as expected |
-| About Me | ![screenshot](documentation/testing/laptopabout.png) | ![screenshot](documentation/edgebrowser/aboutme.png) | Works as expected |
-| Bariatrics | ![screenshot](documentation/testing/laptopbariatrics.png) | ![screenshot](documentation/edgebrowser/bariatrics.png) | Works as expected |
-| Injectables | ![screenshot](documentation/testing/laptopinjectables.png) | ![screenshot](documentation/edgebrowser/injectables.png) | Works as expected |
-| Testimonials | ![screenshot](documentation/testing/laptoptestimonials.png) | ![screenshot](documentation/edgebrowser/testimonials.png)| Works as expected |
-| Booking | ![screenshot](documentation/testing/laptopbooking.png) | ![screenshot](documentation/edgebrowser/booking.png)|Works as expected |
-| Success | ![screenshot](documentation/testing/laptopsuccess.png) | ![screenshot](documentation/edgebrowser/success.png) |Works as expected |
-| 404 | ![screenshot](documentation/testing/laptop404.png) | ![screenshot](documentation/edgebrowser/404.png) | Works as expected |
+| Home | ![screenshot](documentation/testing/laptop-home.png) | ![screenshot](documentation/edgebrowser/home.png)| Works as expected |
+| About Me | ![screenshot](documentation/testing/laptop-about.png) | ![screenshot](documentation/edgebrowser/aboutme.png) | Works as expected |
+| Bariatrics | ![screenshot](documentation/testing/laptop-bariatrics.png) | ![screenshot](documentation/edgebrowser/bariatrics.png) | Works as expected |
+| Injectables | ![screenshot](documentation/testing/laptop-injectables.png) | ![screenshot](documentation/edgebrowser/injectables.png) | Works as expected |
+| Testimonials | ![screenshot](documentation/testing/laptop-testimonials.png) | ![screenshot](documentation/edgebrowser/testimonials.png)| Works as expected |
+| Booking | ![screenshot](documentation/testing/laptop-booking.png) | ![screenshot](documentation/edgebrowser/booking.png)|Works as expected |
+| Success | ![screenshot](documentation/testing/laptop-success.png) | ![screenshot](documentation/edgebrowser/success.png) |Works as expected |
+| 404 | ![screenshot](documentation/testing/laptop-404.png) | ![screenshot](documentation/edgebrowser/404.png) | Works as expected |
 
 ## Lighthouse Audit
 
