@@ -41,7 +41,7 @@ I've tested my deployed project to check for responsiveness issues.
 
 | Page | Mobile | Tablet | Desktop | Notes |
 | --- | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/testing/mobileHome.png) | ![screenshot](documentation/testing/laptopHome.png) | ![screenshot](documentation/testing/desktophome.png) | Works as expected |
+| Home | ![screenshot](documentation/testing/mobilehome.png) | ![screenshot](documentation/testing/laptophome.png) | ![screenshot](documentation/testing/desktophome.png) | Works as expected |
 | About Me | ![screenshot](documentation/testing/mobileAbout.png) | ![screenshot](documentation/testing/laptopabout.png) | ![screenshot](documentation/testing/desktopabout.png) | Works as expected |
 | Bariatric Services | ![screenshot](documentation/testing/mobilebariatrics.png) | ![screenshot](documentation/testing/laptopbariatrics.png) | ![screenshot](documentation/testing/desktopbariatrics.png) | Works as expected |
 | Injectable Services | ![screenshot](documentation/testing/mobileinjectables.png) | ![screenshot](documentation/testing/laptopinjectables.png) | ![screenshot](documentation/testing/desktopinjectables.png) | Works as expected |
