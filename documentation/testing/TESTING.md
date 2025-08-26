@@ -15,8 +15,8 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 | Directory | File | URL | Screenshot | Notes |
 | --- | --- | --- | --- | --- |
-|  | [404.html](https://github.com/DavidClamp/new-milestone/blob/main/404.html) | https://davidclamp.github.io/new-milestone/404.html | ![404 screenshot](../testing/404-htmlcode-testScreenshot.png) | 
-|  | [booking.html](https://github.com/DavidClamp/new-milestone/blob/main/booking.html) | [HTML Validator](https://davidclamp.github.io/new-milestone/booking.html) | ![screenshot](../testing/.png) | 
+|  | [404.html](https://github.com/DavidClamp/new-milestone/blob/main/404.html) | https://davidclamp.github.io/new-milestone/404.html | ![404 screenshot](documentation/testing/404-htmlcode-testscreenshot.png) 
+|  | [booking.html](https://github.com/DavidClamp/new-milestone/blob/main/booking.html) | [HTML Validator](https://davidclamp.github.io/new-milestone/booking.html) | ![screenshot](../testing/booking-htmlcode-testscreenshot.png) | 
 |  | [index.html](https://github.com/DavidClamp/new-milestone/blob/main/index.html) | [HTML Validator](https://davidclamp.github.io/new-milestone/index.html) | ![index test results](../testing/404-htmlcode-testScreenshot.png) |
 |  | [success.html](https://github.com/DavidClamp/new-milestone/blob/main/success.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://davidclamp.github.io/new-milestone/success.html) | ![screenshot](../testing/success-html%20code-testScreenshot.png) |  |
 
