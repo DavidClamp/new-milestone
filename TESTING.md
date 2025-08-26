@@ -44,7 +44,7 @@ I've tested my deployed project to check for responsiveness issues.
 | Home | ![screenshot](documentation/testing/mobileHome.png) | ![screenshot](documentation/testing/laptopHome.png) | ![screenshot](documentation/testing/desktophome.png) | Works as expected |
 | About Me | ![screenshot](documentation/testing/mobileAbout.png) | ![screenshot](documentation/testing/laptopabout.png) | ![screenshot](documentation/testing/desktopabout.png) | Works as expected |
 | Bariatric Services | ![screenshot](documentation/testing/mobilebariatrics.png) | ![screenshot](documentation/testing/laptopbariatrics.png) | ![screenshot](documentation/testing/desktopbariatrics.png) | Works as expected |
-| Injectable Services | ![screenshot](documentation/testing/mobilinjectables.png) | ![screenshot](documentation/testing/laptopinjectables.png) | ![screenshot](documentation/testing/desktopinjectables.png) | Works as expected |
+| Injectable Services | ![screenshot](documentation/testing/mobileinjectables.png) | ![screenshot](documentation/testing/laptopinjectables.png) | ![screenshot](documentation/testing/desktopinjectables.png) | Works as expected |
 | Booking | ![screenshot](documentation/testing/mobilebooking.png) | ![screenshot](documentation/testing/laptopbooking.png) | ![screenshot](documentation/testing/desktopbooking.png) | Works as expected |
 | Success | ![screenshot](documentation/testing/mobilesuccess.png) | ![screenshot](documentation/testing/laptopsuccess.png) | ![screenshot](documentation/testing/desktopsuccess.png) | Works as expected |
 | 404 | ![screenshot](documentation/testing/mobile404.png) | ![screenshot](documentation/testing/laptop404.png) | ![screenshot](documentation/testing/desktop404.png) | Works as expected |
