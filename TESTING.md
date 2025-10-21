@@ -105,4 +105,12 @@ Defensive programming was manually tested with the below user acceptance testing
 [!IMPORTANT]  
 There are no remaining bugs that I am aware of, though, even after thorough testing, I cannot rule out the possibility.
 
+### Amendments
+
+Navbar color was changed for better contrast reading
+#navbar {
+    background-color: #313233;
+}
+
+
 
