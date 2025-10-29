@@ -99,6 +99,18 @@ Defensive programming was manually tested with the below user acceptance testing
 | Social Links | Feature is expected to include working links to the practices social platforms (Instagram, Facebook, etc.). | Clicked each social link to verify redirection to the correct platform page. | All links redirected to the correct platform pages, opening in new browser tabs. |
 | 404 Error Page | Feature is expected to display a 404 error page for non-existent pages. | Navigated to an invalid URL (e.g., `/test`) to test error handling. | A custom 404 error page was displayed as expected. | 
 
+## User Story Testing
+
+
+| Target | Expectation | Outcome | Screenshot |
+| --- | --- |  --- |  --- |
+| As a new first time visitor | I would like to navigate easily | User presented with an easily readable navigation bar to go through pages | 
+| As a potential client | I would like to know more about dietician | User can view a brief background of Dietitian | ![screenshot](documentation/testing/laptop-about.png) |
+| As a potential Client |  I would like have a single consultation as I'm considering either bariatric surgery or weight loss injectables and would like to speak to a specialist dietihome page | User can book a free consulatation on the home page | ![screenshot](documentation/testing/laptop-home.png) |
+|As a potential client | I would like to see demonstrate how successful is this service | Several testimonials are presented | ![screenshot](documentation/testing/laptop-testimonials.png)|
+| As a Bariatric patient | I would like to know more about what services are on offer | patient can perview services on offer | ![screenshot](documentation/testing/laptop-bariatrics.png) |
+| As a Weight loss injectables user | I would like to know more about what services are on offer | patient can perview services on offer | ![screenshot](documentation/testing/laptop-injectables.png) |
+
 
 ### Known Issues
 
